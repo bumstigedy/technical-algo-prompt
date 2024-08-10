@@ -7,7 +7,7 @@ This project was completed to learn about technical analysis, algorithmic tradin
 Included in this repository are a few simple examples to illustrate the concepts. I hope you'll enjoy tweaking your own strategies as much as I did!
 
 ## If you don't want to clone the repo yet and just want to see examples of the charts click below
-https://bumstigedy.github.io/tech-algo-prompt/
+https://bumstigedy.github.io/technical-algo-prompt/
 
 
 ### Repository Structure
