@@ -40,3 +40,6 @@ My experience with this project was that AI was a fast and efficient way to writ
 - [TA-Lib Installation](https://www.youtube.com/watch?v=hZIZMMcTQ8c)
 - [Backtesting.py Tutorial](https://www.youtube.com/watch?v=e4ytbIm2Xg0&list=PLnSVMZC68_e48lA4aRYL1yHYZ9nEq9AiH)
 - [Bitcoin HODL Waves Tutorial](https://www.youtube.com/watch?v=J1AzesoyaGM)
+
+My contact info
+https://www.linkedin.com/in/sanjay-shah-0a679a4
